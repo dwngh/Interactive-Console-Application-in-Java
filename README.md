@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Interconsole Java
 
-You can use the [editor on GitHub](https://github.com/wngH/Interactive-Console-Application-in-Java/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there ! Wanna to create an interactive console application in Java? 
 
-### Markdown
+Interconsole 's not a bad choice to start, it's make initializing your app become much faster! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can save anything with key to "Temp" Object, it will remain till you delete or terminate your console
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### How to use
+To add a new method, go to prototype/method and create one implemented "Method" interface.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wngH/Interactive-Console-Application-in-Java/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And if you want your method can be invoked in console, just go to **prototype.method.Library.java** and add yours.
